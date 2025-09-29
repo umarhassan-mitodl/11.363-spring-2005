@@ -7,6 +7,8 @@ description: 'Reactions on: Restructuring World Politics: The Limits and Asymmet
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/2831706694699d41e6eef1672554013d_emily_greenspan2.pdf
 file_size: 67950
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

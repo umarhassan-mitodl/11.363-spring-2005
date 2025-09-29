@@ -5,6 +5,8 @@ description: 'Reactions on: participation patterns and the repertoire of actions
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/927d8f3245d1206025e33d0cb44865ed_student_one6.pdf
 file_size: 25647
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

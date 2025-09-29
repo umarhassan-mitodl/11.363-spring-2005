@@ -8,6 +8,8 @@ description: 'Reactions on: Increase in NGOs? efforts to work directly with (coo
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/7c208fb5aa36a2b7d9ba829737a64eb1_lindsay_campbel9.pdf
 file_size: 76152
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

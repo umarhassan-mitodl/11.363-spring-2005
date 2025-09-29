@@ -6,6 +6,8 @@ description: Students are required to write brief (no more than one-page) reacti
   by a reaction to the main point. A reaction can be comments in agreement, critiques,
   disagreements with the main points, and / or questions that come to mind as you
   read. Reaction papers will not be graded, but they count towards the final grade.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

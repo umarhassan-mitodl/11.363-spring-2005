@@ -6,6 +6,8 @@ description: 'Reactions on: Dalton, Rohrschneider, and Recchia (2003), Carmen an
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/6bc03244a0415e62458b8c03d80f3b91_nancy_oden6.pdf
 file_size: 79561
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

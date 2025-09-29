@@ -9,6 +9,8 @@ description: 'Reactions on: NGO Influence in International Environmental Negotia
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/9469cf037dd797dcca757cbc406629fd_emily_greenspan7.pdf
 file_size: 70243
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

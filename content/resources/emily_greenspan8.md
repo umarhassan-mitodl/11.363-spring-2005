@@ -8,6 +8,8 @@ description: 'Reactions on: Eurocratising Enlargement? EU Elites and NGO Partici
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/a1ac8e2e16a7de8787d5d9f1f3d33ca8_emily_greenspan8.pdf
 file_size: 69850
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,8 @@ content_type: page
 description: This section includes various required and recommended readings for the
   course.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -56,7 +58,7 @@ Wapner, Paul. "Defending Accountability in NGOs." *Chicago Journal of Internatio
 Sikkink, Kathryn. "Restructuring World Politics: The Limits and Asymmetries of Soft Power." In *Restructuring World Politics: Transnational Social Movements, Networks, and Norms*. Edited by S. Khagram, J. V. Riker, and K. Sikkink. Minneapolis, MN: University of Minnesota Press, 2002, pp. 301-318. ISBN: 0816639078.
 
 Slim, Hugo. "By What Authority? The Legitimacy and Accountability of Non-governmental Organisations." The International Council on Human Rights Policy International Meeting on Global Trends and Human Rights - Before and after September 11, Geneva, January 10-12, 2002.   
-Available at: {{% resource_link "83c3b4cb-04c6-42f7-8ee7-2f0f452ec3c2" "The Global Development Research Center" %}}.
+Available at: [The Global Development Research Center](http://www.gdrc.org/ngo/accountability/by-what-authority.html).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **II. Environmental Actors in International and Domestic Arenas**
@@ -180,7 +182,7 @@ Sasser, Erika N., Aseem Prakash, Benjamin Cashore, and Graeme Auld. "Direct Targ
 
 Doh, J. P., and Guay, T. R. "Globalization and Corporate Social Responsibility: How Nongovernmental Organizations Influence Labor and Environmental Codes of Conduct." *Management International Review* 44, no. 3: 7-30. (forthcoming)
 
-Meyerson, Debra E. "The Tempered Radicals: How Employees Push Their Companies - Little by Little - to be More Socially Responsible." *Stanford Social Innovation Review* (Fall 2004): 14-23. ({{% resource_link "ebdb0072-993a-4239-a79e-9357db855091" "PDF" %}})
+Meyerson, Debra E. "The Tempered Radicals: How Employees Push Their Companies - Little by Little - to be More Socially Responsible." *Stanford Social Innovation Review* (Fall 2004): 14-23. ([PDF](https://web.archive.org/web/20210414035844/https://debram.people.stanford.edu/sites/g/files/sbiybj2261/f/ssir-tr_0.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11

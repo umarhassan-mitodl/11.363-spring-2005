@@ -6,6 +6,8 @@ description: 'Reactions on: On the International Origins of Domestic Political O
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/5365b8f1186db6a1f906ce4249712bcd_erik_nielsen5.pdf
 file_size: 84113
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

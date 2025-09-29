@@ -7,6 +7,8 @@ description: 'Reactions on: On the Internationa Origins of Domestic Political Op
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/70c89545c225dcde4e1721cee25d4a4a_david_fogelson5.pdf
 file_size: 65898
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

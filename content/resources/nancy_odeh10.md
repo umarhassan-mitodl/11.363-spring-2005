@@ -5,6 +5,8 @@ description: 'Reactions on: Carmin et al. (2003), Coban (2004), Shaw (2004), Fis
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/92e882a9ca8a3b5918a0be45409e96af_nancy_odeh10.pdf
 file_size: 68354
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: 'Reactions on: ransnational organization?s roles in the internation
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/e5e31e315dd0d85e20cfeb29ef141b43_student_one4.pdf
 file_size: 72548
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

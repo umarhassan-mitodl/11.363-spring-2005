@@ -6,6 +6,8 @@ description: 'Reactions on: The idea of global civil society by Mary Kaldor, Pow
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/57ed625d5424c58636797b8c257f32fe_annemarie_herbs1.pdf
 file_size: 69105
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

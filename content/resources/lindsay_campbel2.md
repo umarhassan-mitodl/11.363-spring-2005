@@ -7,6 +7,8 @@ description: 'Reactions on: Growth and impact of NGOs under the New Policy Agend
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/156154f993e145f1c3a390cf716d9ef9_lindsay_campbel2.pdf
 file_size: 74481
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: 'Reactions on: Power Shift by Mathews, The Idea of Global Society b
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/9395ea0620cf60f2187589f74d334a26_david_fogelson1.pdf
 file_size: 68641
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

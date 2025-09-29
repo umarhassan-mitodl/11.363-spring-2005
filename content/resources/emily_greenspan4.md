@@ -6,6 +6,8 @@ description: 'Reactions on: Activists beyond Borders: Advocacy Networks in Inter
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/14ab78a6c732f69cbc945a0844a39756_emily_greenspan4.pdf
 file_size: 71100
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

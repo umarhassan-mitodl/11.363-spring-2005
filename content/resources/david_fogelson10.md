@@ -6,6 +6,8 @@ description: 'Reactions on: Community Environmental Policing by O?Rourke and Mac
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/8d2db9dd4d492511a25eb835ec98ab1c_david_fogelson10.pdf
 file_size: 67604
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

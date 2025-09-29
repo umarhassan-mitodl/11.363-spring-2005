@@ -4,6 +4,8 @@ description: 'Reactions on: world civic politics.'
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/9c84fb3d27f1374024dea5c109f3de93_student_one3.pdf
 file_size: 16717
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

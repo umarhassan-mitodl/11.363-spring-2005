@@ -6,6 +6,8 @@ description: 'Reactions on: Why do environmental movement organizations have dif
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/c8b2056294fb5dc172741124fb6c79b0_lindsay_campbel6.pdf
 file_size: 72968
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -8,6 +8,8 @@ description: 'Reactions on: decision making process should take care of distribu
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/29ca4b74af07c492d13825e588992bb0_student_one8.pdf
 file_size: 91906
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
