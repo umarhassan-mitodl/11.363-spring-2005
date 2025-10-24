@@ -8,8 +8,6 @@ description: 'Reactions on: Political opportunity theory by McAdam, Cross-nation
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/0d44723ac830e6b328aeaafd8189bf89_lindsay_campbel5.pdf
 file_size: 100932
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

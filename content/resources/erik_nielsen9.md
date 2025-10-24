@@ -8,8 +8,6 @@ description: 'Reactions on: Campaigning for Corporate Change: Global Citizen Act
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/cbb61e0b4a557c9e1e4ec4ad16cd8f54_erik_nielsen9.pdf
 file_size: 72841
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

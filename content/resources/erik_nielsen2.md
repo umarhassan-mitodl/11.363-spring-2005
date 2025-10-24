@@ -5,8 +5,6 @@ description: 'Reactions on: Defending Accountability in NGOs, Restructuring Worl
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/a8c637eb7b79c1407015f87b700fc3dc_erik_nielsen2.pdf
 file_size: 70362
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

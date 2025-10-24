@@ -8,8 +8,6 @@ description: 'Reactions on: Global Citizen Action by Edwards and Gaventa, How Co
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/2b72d979527d6167352bd9937130ba3c_emily_greenspan9.pdf
 file_size: 78689
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

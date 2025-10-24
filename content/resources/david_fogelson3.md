@@ -5,8 +5,6 @@ description: 'Reactions on: Politics Beyond the State by Wapner, Environmental O
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/1632d1206b6728f5e9e93b48a25ac975_david_fogelson3.pdf
 file_size: 80220
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: 'Reactions on: Sasser (2001), Sasser et al., (2004), Rondinelli and
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/faaee2ff658fd0be39d614b9e9473472_nancy_odeh9.pdf
 file_size: 68816
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

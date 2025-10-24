@@ -5,8 +5,6 @@ description: Includes discussion questions on EcoLogic Finance ? Business? Answe
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/067ba55c034a67391a72029ebcaa884b_fogelson_quest.pdf
 file_size: 14908
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

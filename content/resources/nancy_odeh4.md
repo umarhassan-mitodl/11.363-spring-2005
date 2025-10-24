@@ -5,8 +5,6 @@ description: 'Reactions on: Reimann?s (2001), Keck and Sikkink?s chapters (1998)
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/f6fd66951a7c9b3db6a7719fa117a2d6_nancy_odeh4.pdf
 file_size: 65349
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

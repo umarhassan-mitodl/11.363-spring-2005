@@ -5,8 +5,6 @@ description: 'Reactions on: The four main readings, Wapner (2003), Sikkink (2002
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/b9575dce13892b824a9888938cc4e82e_nancy_odeh2.pdf
 file_size: 70387
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

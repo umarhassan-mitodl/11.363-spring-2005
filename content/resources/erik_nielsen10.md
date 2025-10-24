@@ -9,8 +9,6 @@ description: 'Reactions on: Community Environmental Policing: Assessing New Stra
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/cf519bbeff6d98c14cdb966d6dd6e6da_erik_nielsen10.pdf
 file_size: 71775
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

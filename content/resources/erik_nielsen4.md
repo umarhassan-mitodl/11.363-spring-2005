@@ -5,8 +5,6 @@ description: 'Reactions on: Advocating for the Environment, and Activists Beyond
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/fadb43adc24bfbb2673375676ec29a38_erik_nielsen4.pdf
 file_size: 74138
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -9,8 +9,6 @@ description: 'Reactions on: The disenfranchisement of civil society actors and d
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/a237f37aeeead155a86879278a9a5298_lindsa_campbel10.pdf
 file_size: 91709
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

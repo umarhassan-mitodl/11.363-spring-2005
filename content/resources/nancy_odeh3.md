@@ -5,8 +5,6 @@ description: 'Reactions on: Ludivine and Tamiotti (2001), Wapner (2002), Wapner 
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/cae686db105bf4f99121d29886b6d2db_nancy_odeh3.pdf
 file_size: 68518
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

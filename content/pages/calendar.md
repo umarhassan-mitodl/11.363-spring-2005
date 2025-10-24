@@ -2,8 +2,6 @@
 content_type: page
 description: Calendar includes the list of topics undertaken in the class alongwith
   the due dates of the assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

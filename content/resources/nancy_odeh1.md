@@ -5,8 +5,6 @@ description: 'Reactions on: David Riff (1999), Smith et al., (1997), Kaldor (200
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/04463d770c2ae8e821bfbabb4a8206f2_nancy_odeh1.pdf
 file_size: 82462
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

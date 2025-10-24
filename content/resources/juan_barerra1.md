@@ -7,8 +7,6 @@ description: 'Reactions on: Civil Society and the Future of Nation State by Davi
 file: /courses/11-363-civil-society-and-the-environment-spring-2005/22a8f56951ed524d8841a17f79dbb2a7_juan_barerra1.pdf
 file_size: 102438
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
