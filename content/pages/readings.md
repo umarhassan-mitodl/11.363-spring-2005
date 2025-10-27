@@ -56,7 +56,7 @@ Wapner, Paul. "Defending Accountability in NGOs." *Chicago Journal of Internatio
 Sikkink, Kathryn. "Restructuring World Politics: The Limits and Asymmetries of Soft Power." In *Restructuring World Politics: Transnational Social Movements, Networks, and Norms*. Edited by S. Khagram, J. V. Riker, and K. Sikkink. Minneapolis, MN: University of Minnesota Press, 2002, pp. 301-318. ISBN: 0816639078.
 
 Slim, Hugo. "By What Authority? The Legitimacy and Accountability of Non-governmental Organisations." The International Council on Human Rights Policy International Meeting on Global Trends and Human Rights - Before and after September 11, Geneva, January 10-12, 2002.   
-Available at: [The Global Development Research Center](http://www.gdrc.org/ngo/accountability/by-what-authority.html).
+Available at: {{% resource_link "68703f2f-6bd0-4e8d-8bf0-59e8da4b80ae" "The Global Development Research Center" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **II. Environmental Actors in International and Domestic Arenas**
@@ -180,7 +180,7 @@ Sasser, Erika N., Aseem Prakash, Benjamin Cashore, and Graeme Auld. "Direct Targ
 
 Doh, J. P., and Guay, T. R. "Globalization and Corporate Social Responsibility: How Nongovernmental Organizations Influence Labor and Environmental Codes of Conduct." *Management International Review* 44, no. 3: 7-30. (forthcoming)
 
-Meyerson, Debra E. "The Tempered Radicals: How Employees Push Their Companies - Little by Little - to be More Socially Responsible." *Stanford Social Innovation Review* (Fall 2004): 14-23. ([PDF](https://web.archive.org/web/20210414035844/https://debram.people.stanford.edu/sites/g/files/sbiybj2261/f/ssir-tr_0.pdf))
+Meyerson, Debra E. "The Tempered Radicals: How Employees Push Their Companies - Little by Little - to be More Socially Responsible." *Stanford Social Innovation Review* (Fall 2004): 14-23. ({{% resource_link "79c7151c-7d54-4d7f-93e7-f995388eab05" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
